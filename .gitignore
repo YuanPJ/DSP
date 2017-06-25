@@ -1,0 +1,5 @@
+data_large/
+data/links.csv
+data/movies.csv
+data/tags.csv
+*.zip
